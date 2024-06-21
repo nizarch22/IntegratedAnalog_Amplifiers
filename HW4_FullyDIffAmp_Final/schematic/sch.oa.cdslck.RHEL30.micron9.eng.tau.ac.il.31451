@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      nizark
+HostName                       micron9.eng.tau.ac.il
+ProcessIdentifier              31451
+ProcessCreationTime_UTC        1718972062
+ProcessCreationTime_Readable   Fri Jun 21 15:14:22 2024 IDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /project/ibm8hp/users/nizark/ws/Analog_projects/HW4_FullyDIffAmp_Final/schematic/sch.oa.cdslck
+TimeEditLocked                 Fri Jun 21 15:14:44 2024 IDT

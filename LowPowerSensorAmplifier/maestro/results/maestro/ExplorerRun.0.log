@@ -1,0 +1,14 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Feb 22 23:31:24 2024 
+Best design point: 1
+Design specs: 
+	Analog_projects_LowPowerSensorAmplifier_1	corner	Nominal - 
+	(dB20(VF("/Vout")) - dB20(VF("/Vin")))		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 1
+ExplorerRun.0 completed. 
+Current time: Thu Feb 22 23:31:38 2024 
